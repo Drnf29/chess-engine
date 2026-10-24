@@ -1,0 +1,1 @@
+# This is where the model calculates the loss and updates the weights (back propagation)
